@@ -1,26 +1,23 @@
 // skills Data
 
-const skills = [
-  { name: "Python", progress: "60" },
-  { name: "Docker/Kubernetes", progress: "50" },
-  { name: "Team Management", progress: "50" },
-  { name: "Apache/Nginx", progress: "50" },
-  { name: "MongoDB", progress: "50" },
-  { name: "Vector Database", progress: "50" },
-  { name: "LLM", progress: "50" },
-  { name: "CI/CD, Terraform", progress: "50" },
-  { name: "Redis, Elastic Search", progress: "50" },
-  { name: "Microservice", progress: "50" },
-  { name: "DynamoDB, S3, EC2", progress: "50" },
-  { name: "SaaS Architecture", progress: "50" },
-  { name: "Gcp / Aws / Azure", progress: "50" },
-  { name: "Flask", progress: "50" },
-  { name: "Django", progress: "50" },
-  { name: "TypeScript", progress: "50" },
-  { name: "React.js / Next.js", progress: "50" },
-  { name: "FastAPIs", progress: "50" },
+export const skills = [
+  { name: "Python", progress: "85" },
+  { name: "Docker/Kubernetes", progress: "70" },
+  { name: "Team Management", progress: "90" },
+  { name: "Apache/Nginx", progress: "65" },
+  { name: "MongoDB", progress: "90" },
+  { name: "Vector Database", progress: "78" },
+  { name: "LLM", progress: "80" },
+  { name: "CI/CD, Terraform", progress: "60" },
+  { name: "Redis, Elastic Search", progress: "78" },
+  { name: "Microservice", progress: "80" },
+  { name: "DynamoDB, S3, EC2", progress: "75" },
+  { name: "SaaS Architecture", progress: "80" },
+  { name: "Gcp / Aws / Azure", progress: "75" },
+  { name: "Flask", progress: "90" },
+  { name: "Django", progress: "90" },
+  { name: "FastAPIs", progress: "85" },
 ];
-
 // projects data
 const projectData = [
   {
