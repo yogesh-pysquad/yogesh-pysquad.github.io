@@ -1,6 +1,6 @@
 // skills Data
 
-export const skills = [
+const skills = [
   { name: "Python", progress: "85" },
   { name: "Docker/Kubernetes", progress: "70" },
   { name: "Team Management", progress: "90" },
